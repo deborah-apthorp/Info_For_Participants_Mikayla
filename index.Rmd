@@ -37,11 +37,12 @@ My name is Mikayla Glover, and I am conducting this research as part of my Honou
 ## Project and aims
 
 - **Research project**: Long-COVID, cognitive functioning, and psychological adjustment: An online study.
-- **Aim of the research**: This study aims to investigate whether there are ongoing effects of COVID-19 on cognitive functioning. I am interested in the effect COVID-19 has on executive function, and how it may affect everyday living. This is a comparative study which will also examine the differences between those who have had COVID-19, those who are suffering from Long-COVID, and those who have never had COVID-19. 
+- **Aim of the research**: The purpose of this study is to determine whether, and if so to what extent, there are cognitive differences in individuals experiencing long-COVID. Furthermore, the study aims to determine what factor most influences cognitive differences in those with long-COVID. 
 
 ## Online battery of tests and questionnaires
 
-- **Online experiments**: I would like you to answer some basic demographic questions, complete three cognitive tests and fill in three brief questionnaires and some demographic questions. It should take no longer than 45 minutes to complete. The questions in the questionnaires are not of a sensitive nature; rather they are general, and will help to enhance our knowledge about cognitive functioning and quality of life after COVID-19. You may take breaks for as long as you need.
+- **Online experiments**: For this study, you will be asked to answer some basic demographic questions, complete three cognitive tests and fill in four brief questionnaires. It should take no longer than 45 minutes to complete. The questions in the questionnaires are not of a sensitive nature; rather they are general and will help to enhance our knowledge about cognitive functioning and quality of life after COVID-19.
+
 - **Downloading Inquisit**: You will need to download a small computer program called Inquisit Player to carry out the tasks on your computer. This is perfectly safe and can be deleted with a single click immediately afterwards. 
 
 
@@ -52,9 +53,9 @@ My name is Mikayla Glover, and I am conducting this research as part of my Honou
 
 ## Use of Information
 
-- **Use of information**: I will use information from the tasks and questionnaire as part of my thesis, which I expect to complete in October 2022.  
+-  I will use information from the tasks and questionnaire as part of my thesis, which I expect to complete in October 2022.  
 
-- Information from the study may also be used in academic journal articles and conference presentations, as well as blog posts, preprints, and newspaper articles, before and after this date. At all times, I will safeguard your identity by presenting the information in a way that will not allow you to be identified.
+- Information from the study may also be used in academic journal articles and conference presentations, as well as blog posts, preprints, and newspaper articles, before and after this date. At all times, your identity will be safeguarded, as we are not collecting any identifying information. 
 
 ## Storage of Information
 
@@ -65,14 +66,22 @@ My name is Mikayla Glover, and I am conducting this research as part of my Honou
 
 - **Approval**: This project has been approved by the Human Research Ethics Committee of the University of New England (Approval No. XXXX, Valid to 01 June, 2022).
 
-- **Upsetting issues**: It is unlikely that this research will raise any personal or upsetting issues, but if it does you may wish to contact Lifeline on 13 11 44 (if in Australia), Mental Health America (if in the USA): 1-800-273-TALK (8255) to reach a 24-hour centre, or text MHA to 741741 to reach a text line – OR, if in the UK, contact Samaritans on 116 123, 24 hours a day or text SHOUT to 85258.
+- **Upsetting issues**: It is unlikely that this research will raise any personal or upsetting issues, but if it does you may wish to contact Lifeline on 13 11 44.
 
 
 ## Contact us
 
 - **Researchers' contact details**: Feel free to contact me with any questions about this research by email at [mglover9@myune.edu.au](mailto:mglover9@myune.edu.au).
 
-- You may also contact my supervisors. My principal supervisor’s name is Dr Deborah Apthorp and she can be contacted by email at [dapthorp@une.edu.au](mailto:dapthorp@une.edu.au) by phone on +61 2 6773 4315. My co-supervisor’s name is Dr Clara Murray and her email address is [cmurra30@une.edu.au](mailto:cmurra30@une.edu.au); her phone number is +61 2 6773 1793.
+- You may also contact my supervisors on this project.
+
+- Principal supervisor: Dr Deborah Apthorp
+    - **Email**  [dapthorp@une.edu.au](mailto:dapthorp@une.edu.au)
+    - **Phone** +61 2 6773 4315. 
+
+- Co-supervisor: A/Prof Clara Murray
+    - **Email:** [cmurra30@une.edu.au](mailto:cmurra30@une.edu.au)
+    - **Phone**  +61 2 6773 1793.
 
 ## Complaints 
 
@@ -84,7 +93,7 @@ Armidale, NSW  2351
 Tel: +61 2 6773 3715.
 Email: [humanethics@une.edu.au](humanethics@une.edu.au)
 
-## Proceed 
+### Proceed to Inquisit
 
 - To view the consent form and proceed with the experiments and surveys, please click on the link. 
 
